@@ -1,5 +1,7 @@
 # modelo-entidade-relacionamento
 
+![Banco de Dados: o que é? Qual a sua função?](https://i.imgur.com/i2ZXlwG.png)
+
 Aviso: este repositório foi criado com intuitos acadêmicos, baseados em artigos e atividades práticas de sistemas de banco de dados. Erros podem ter sido cometidos, para total compreensão do tema, busque fontes confiáveis. 
 
 - Conceitos básicos de Banco de Dados, Arquitetura & Usuários
