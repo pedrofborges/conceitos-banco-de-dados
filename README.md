@@ -10,10 +10,10 @@ Foi necessário desenvolver uma abordagem mais inteligente para armazenar dados.
 
 Este repositório apresenta uma série de arquivos contendo as principais informações e exemplos práticos, começaremos dos mais simples aos mais avançados. Cada arquivo aborda um tópico específico, e eles serão sempre atualizados a seguir.
 
--**Dados x Informações**
--**SGBD**
--**Entidade e Modelo Entidade-Relacionamento**
--**Usuários de Banco de Dados**
+- **Dados x Informações**
+- **SGBD**
+- **Entidade e Modelo Entidade-Relacionamento**
+- **Usuários de Banco de Dados**
 
 
 
